@@ -1,0 +1,29 @@
+.name{
+    color:#172b4d;
+    font-family:'Inter',sans-serif;
+    font-size:40px;
+    font-style: normal;
+    text-align: center;
+}
+.profession{
+    color:#36b37f;
+    font-style: normal;
+    font-size:36px;
+    font-family:'Inter',sans-serif;
+    line-height: 44px;
+    text-align: center;
+
+}
+.para{
+    color:#172b4d;
+    font-family:'Inter',sans-serif;
+    font-style:normal;
+    font-size:20px;
+    line-height: 28px;
+   
+    text-align: center;
+
+}
+.intro{
+    margin-top:80px;
+}
