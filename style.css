@@ -79,3 +79,14 @@
   height: 114px;
   resize: none;
 }
+
+.icon {
+  padding-left: 15px;
+  color: #36b37e;
+}
+
+.fa-brands {
+  color: #36b37e;
+  font-size: large;
+  width: 20px;
+}
