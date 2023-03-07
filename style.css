@@ -24,7 +24,10 @@
   background-repeat: no-repeat;
 }
 
-
 .downarrow {
   margin-left: 0%;
+}
+
+.intro {
+  margin-top: 150px;
 }
