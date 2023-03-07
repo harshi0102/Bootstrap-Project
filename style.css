@@ -27,3 +27,8 @@
 .intro{
     margin-top:80px;
 }
+
+.card-section {
+    display: flex;
+    justify-content: center;
+}
