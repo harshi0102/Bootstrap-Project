@@ -28,13 +28,13 @@ https://harshi0102.github.io/Bootstrap-Project/
 
 # 📖 [Portfolio Project] <a name="about-project">About</a>
 
- This carefully curated portfolio  showcases  extensive skill set, education, training, and experiences to provide you with a comprehensive understanding of my qualifications entirely built with bootstrap.
+This carefully curated portfolio showcases extensive skill set, education, training, and experiences to provide you with a comprehensive understanding of my qualifications entirely built with bootstrap.
 
 ## 🛠 Built With <a name="built-with">Visual Studio Code</a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-The core concepts of HTML, CSS,Bootstrap  and github were implemented.Using HTML, I was able to create a dynamic and responsive webpage that incorporates text, images, and hyperlinks. With CSS, I was able to style and customize the layout and design of the page, creating a unique and visually appealing user experience. In addition, the project has been managed and stored using Github, which provides a powerful and reliable version control system.With bootstrap,web design becomes responsive as bootstrap have compatibility across all browsers.
+The core concepts of HTML, CSS,Bootstrap and github were implemented.Using HTML, I was able to create a dynamic and responsive webpage that incorporates text, images, and hyperlinks. With CSS, I was able to style and customize the layout and design of the page, creating a unique and visually appealing user experience. In addition, the project has been managed and stored using Github, which provides a powerful and reliable version control system.With bootstrap,web design becomes responsive as bootstrap have compatibility across all browsers.
 
 <details>
   <summary>Static Page</summary>
@@ -96,6 +96,7 @@ Clone this repository to your desired folder
 To run the project, execute the following file:
 
 index.html and open the file in desktop view.
+
 ### Run tests
 
 To run tests, run the following command:
@@ -103,7 +104,7 @@ To run tests, run the following command:
 Open the code in Visual Studio Code and run the following commands :
 
 npx hint .
-npx stylelint "**/*.{css,scss}"
+npx stylelint "\*_/_.{css,scss}"
 
 ### Deployment
 
@@ -121,6 +122,12 @@ VS Code
 - GitHub: [@harshi0102](https://github.com/harshi0102/)
 - Twitter: [@harshika0102me](https://twitter.com/harshika0102me)
 - LinkedIn: [harshikagovind](https://www.linkedin.com/in/harshikagovind)
+
+👤 Qusai Issa
+
+- GitHub: [@qusai122](https://github.com/qusai122/)
+- Twitter: [@qusai123issa](https://twitter.com/qusai123issa)
+- LinkedIn: [qusai-issa-ab5a59156](https://www.linkedin.com/in/qusai-issa-ab5a59156)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
